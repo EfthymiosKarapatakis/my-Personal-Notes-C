@@ -11,7 +11,6 @@ int main(){                               //function
                                           //"\n" new line
     return 0;                             //to close the function
 }
-//test
 */
 
 /* 2nd: Variables.
